@@ -7,6 +7,7 @@ A Design of Schedule Management Platform by Purrweb-UX made in Flutter by me.
 https://dribbble.com/shots/9681162-Schedule-Management-Platform
 
 ## Image
+![](/1.png)
 
 
 
