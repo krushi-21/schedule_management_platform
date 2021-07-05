@@ -59,7 +59,7 @@ class HomeScreen extends StatelessWidget {
       padding: const EdgeInsets.only(left: 28.0, top: 28.0),
       decoration: BoxDecoration(
           color: AppColors.primaryColor,
-          borderRadius: BorderRadius.only(topLeft: Radius.circular(34))),
+          borderRadius: BorderRadius.only(topLeft: Radius.circular(20))),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
